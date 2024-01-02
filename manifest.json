@@ -1,0 +1,7 @@
+{
+    "short_name": "Fitness App",
+    "name": "My Personal Fitness App",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
+  
